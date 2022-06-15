@@ -1,1 +1,5 @@
-# bumblby
+###Запуск тестов
+
+```pytest tests```
+
+

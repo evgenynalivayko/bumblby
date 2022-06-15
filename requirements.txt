@@ -1,0 +1,4 @@
+pytest
+selene==2.0.0b1
+selenium==4.1.0
+requests

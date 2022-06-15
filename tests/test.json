@@ -1,0 +1,33 @@
+{
+   "data":{
+      "signIn":{
+         "success":true,
+         "errors":[
+
+         ],
+         "student":{
+            "firstName":"Евгенийевгенийевгенийевгенийевгений",
+            "middleName":"Валерьевич",
+            "avatar":null,
+            "secondName":"Наливайко",
+            "token":"Bearer eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoyNDgsImV4cCI6IjE2NTYxNTEyMjYifQ.TXR5A4xyMk-0lVauAOOSbar-VKPNdNSwav4vBLGKQ1o",
+            "birthday":null,
+            "email":"nalivayko.ev@gmail.com",
+            "phone":"",
+            "sex":2,
+            "userAddress":"Респ Мордовия, г Рузаевка, ул Ульяновская, д 2, кв 1",
+            "certificationPassed":false,
+            "category":{
+               "id":3,
+               "name":"Безработный",
+               "__typename":"Category"
+            },
+            "groups":[
+
+            ],
+            "__typename":"Student"
+         },
+         "__typename":"SignInPayload"
+      }
+   }
+}
